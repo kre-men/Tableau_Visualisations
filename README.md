@@ -20,9 +20,3 @@ This project provides an in-depth analysis of the ongoing war between Russia and
 
 ### Objective:
 The goal of this project is to offer a comprehensive, data-driven view of the ongoing war's impact, both on the Russian military and the civilian population in Ukraine. By visualizing these aspects, the project aims to raise awareness about the dynamics of the conflict and the significant consequences for both sides.
-
-### Tools & Technologies:
-- **Python**: For data analysis and processing.
-- **Matplotlib & Seaborn**: For data visualization.
-- **Pandas**: For data manipulation and analysis.
-- **ACLED Data**: Source of the dataset, available at [ACLED](https://acleddata.com/).
